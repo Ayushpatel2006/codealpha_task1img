@@ -1,4 +1,3 @@
-# codealpha_task1img
 # Image Gallery Project
 
 A simple and responsive image gallery built using HTML, CSS, and JavaScript. This project allows users to view and interact with images in a grid format.
